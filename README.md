@@ -50,7 +50,13 @@ Feel free to fork, open PR or do whatever you wish with this repo at your OWN RI
 
 ## Store Links
 [Google Play](https://play.google.com/store/apps/details?id=com.kibibyteapps.trapspy)
+<br>
 [App Store](https://apps.apple.com/us/app/trapspy/id1403138498)
+
+## Live Demo
+[Demo 1](https://youtu.be/RdFb_pxMqWQ)
+<br>
+[Demo 2](https://youtu.be/5KzJWSE8tIY)
 
 ## Attribution
 The videos of the app are sole property of the app owner, used with permission.
